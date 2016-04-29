@@ -1,1 +1,2 @@
 https://guides.github.com/activities/hello-world/
+http://opentechschool.github.io/github-from-scratch/git/
